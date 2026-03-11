@@ -1,4 +1,4 @@
-# ttpstage2 - A MERN Stack virtual stock trading platform.
+# ttpstage2 - A MERN Stack virtual Stock Trading platform.
 Uses the MERN Stack (MongoDB, Express.js, React.js, Node.js).
 Developed for a coding assignment.
 I will note that this was my first venture into a full stack project, with very little experience prior to this.
